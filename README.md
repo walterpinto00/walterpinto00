@@ -1,23 +1,24 @@
 # ¡Hola! Soy Walter Pinto 👋
 ### 🚀 Desarrollador de Software & Apasionado por la Tecnología
 
-Bienvenido a mi perfil de GitHub. Me dedico a construir soluciones web interactivas, sistemas de gestión escalables y aplicaciones con excelente experiencia de usuario y código limpio.
+Bienvenido a mi perfil de GitHub. Me dedico a construir soluciones web interactivas, aplicaciones móviles nativas y sistemas de gestión escalables con excelente experiencia de usuario, buenas prácticas y código limpio.
 
 ---
 
 ### 💻 Stack Tecnológico & Herramientas
 
 **Lenguajes:**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Frontend & Backend:**
+**Frameworks, Entornos & Ecosistema:**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -26,10 +27,11 @@ Bienvenido a mi perfil de GitHub. Me dedico a construir soluciones web interacti
 ### 🌟 Proyectos Destacados
 
 - 🏨 **[Andino Restaurant System](https://github.com/walterpinto00/Andino-Restaurant-System)**: Prototipo tecnológico desarrollado para el Hackathon SENA. Control de inventario con alertas automáticas (Sistema STOP), validación de planes de alimentación y flujo de caja diario en Vanilla JS, MySQL y Dark Glassmorphism.
-- 🍽️ **[Reserva Restaurante](https://github.com/walterpinto00/Reserva-Restaurante)**: Sistema de gestión y reservaciones para restaurantes y comensales.
+- 📱 **[Android App SENA](https://github.com/walterpinto00/Android-App-SENA)**: Aplicación móvil nativa en **Android Studio** desarrollada con **Java** y vistas XML para proyectos y requerimientos institucionales SENA.
+- 🖥️ **[Portafolio C# & .NET](https://github.com/walterpinto00/dotnet-portfolio)**: Suite de soluciones completas en **C# y .NET**, abarcando arquitecturas Web (ASP.NET), aplicaciones de escritorio (Windows Forms / Entity Framework) y lógica en consola.
+- 🍽️ **[Reserva Restaurante](https://github.com/walterpinto00/Reserva-Restaurante)**: Sistema de gestión y reservaciones para restaurantes y comensales con JavaScript y diseño responsivo.
 - 🏫 **[Sistema Escolar](https://github.com/walterpinto00/Sistema-escolar)**: Plataforma para administración académica y control de procesos escolares.
 - ✈️ **[Proyecto Viajes](https://github.com/walterpinto00/proyecto-viajes)**: Aplicación web interactiva y responsiva para turismo y reservas de viaje.
-- 🎮 **[Memory Game Responsive](https://github.com/walterpinto00/Memmory-Game-master-Responsive)**: Juego de memoria con diseño responsivo y lógica de estado avanzada.
 
 ---
 
